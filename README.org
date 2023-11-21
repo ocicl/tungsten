@@ -1,0 +1,9 @@
+* tungston
+
+A Common Lisp toolkit
+
+|---------+--------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/galdor/tungsten.git                                                 |
+| commit  | 85d24ed                                                                                    |
+| systems | tungsten-asdf-utils tungsten-core tungsten-email tungsten-ffi tungsten-fonts tungsten-html tungsten-http tungsten-influxdb tungsten-json tungsten-libssh tungsten-log tungsten-netrc tungsten-openapi tungsten-openssl tungsten-postgresql tungsten-program tungsten-sqlite tungsten-streams tungsten-system tungsten-test tungsten-text tungsten-time tungsten-uri tungsten-uuid |
+|---------+--------------------------------------------------------------------------------------------|
